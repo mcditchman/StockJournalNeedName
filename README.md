@@ -5,10 +5,31 @@ need to figure out name :|
 
 Ideas:
 * Import trades
-* Trade log
+* Trade journal
+  * product
+  * date open
+  * strategy?
+  * qty
+  * Entry price
+  * exit trigger?
+  * closing price
+  * pnl
+  * date closed
+  * RoC
+  * notes
+  * theta gang focused stuff
+    * Expiration
+    * Vix open/close
+    * Days to EXP
+    * Strategy
+    * width
+    * quantity
+    * BPR
+    * % at risk
+    * look at projectoption spreadsheet
 * PnL
 * graphing
-   * individual equity
+   * individual product
    * portfolio PnL
 * scans
     * option selling ideas
