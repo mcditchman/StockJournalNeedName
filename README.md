@@ -3,7 +3,7 @@
 need to figure out name :|
 
 
-Ideas:
+## Ideas:
 * Import trades
 * Trade journal
   * product
@@ -39,5 +39,5 @@ Ideas:
         * seems would be overly difficult
 
 
-* Architecture
+# Architecture
   * Nodejs microservice?
