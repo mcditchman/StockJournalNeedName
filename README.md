@@ -37,3 +37,7 @@ Ideas:
     * short interest
     * indicator based 
         * seems would be overly difficult
+
+
+* Architecture
+  * Nodejs microservice?
