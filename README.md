@@ -41,3 +41,7 @@ need to figure out name :|
 
 # Architecture
   * Nodejs microservice?
+  * hosting
+    * digital ocean
+    * heroku
+    * azure
