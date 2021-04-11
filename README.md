@@ -45,3 +45,6 @@ need to figure out name :|
     * digital ocean
     * heroku
     * azure
+  * React
+     * Next.js
+  * Tailwindcss?
